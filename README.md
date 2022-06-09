@@ -9,7 +9,7 @@ Show message and play sound to everyone, whenever someone does ace, with actual 
 
 ## Cvars
 
-```
+```sh
 sm_aceannouncer_minimum_players "5" //Minimum kills to count as an ace to user.
 sm_aceannouncer_count_suicide "0" //Enable/Disable counting suicide as kill (1/0) 0 -disabled
 sm_aceannouncer_sound_enabled "1" //Enable/Disable sound when player does ace (1/0)
